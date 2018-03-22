@@ -17,6 +17,9 @@ The designed spiral antenna has below characteristics:
 * Compact
 <br />
 
+Below is a snapshot of one of the designs:
+![alt text](https://github.com/adityajain07/WideBand-Sprial-Antenna-for-UAVs/blob/master/spiral_antenna.PNG)
+
 Please see the report for technical details and simulation results. 
 
 
